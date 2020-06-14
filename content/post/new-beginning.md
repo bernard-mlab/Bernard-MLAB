@@ -15,12 +15,12 @@ I had just finished a 12 weeks intensive course on Data Science and the parting 
 
 Now that I have a some 'me' time, I reflected on how this 12 weeks has made an impact on me.
 
-## What have I been up to?
+### What have I been up to?
 
 After being in the banking industry for 10+ years, from living the pre-lehman life, surviving the sub-prime crisis, to the period where banks are under scrutiny from regulators their tsunami of compliance requirements, I figure that it was the time for me to explore area beyond the world of banking and finance.
 I have always been keen in analyzing stuffs, and the biggest joy from my analysis, is that I find unexpected insights. I was exploring some data science and python course on Udemy, when I happened to chance across an introductory talk to data science by General Assembly (GA). During the talk, I was intrigued by how one can bring value to the organisation when they leverage on data science & machine learning.   
 
-## 12 weeks of 'monk life'
+### 12 weeks of 'monk life'
 
 Fast forward 2 months, here I was, sitting in the class with 22 fellow budding data science classmates. Without boring you with the details, in general, I would breakdown my 12 weeks experience in to the follow points.
 
@@ -35,7 +35,7 @@ Fast forward 2 months, here I was, sitting in the class with 22 fellow budding d
   - Besides keeping sanity, it may have unintended side effect of helping you to code faster.
 - There's never a best way to a problem/ model, it DEPENDS.
 
-## Going Forward
+### Going Forward
 
 I will continue to hone my skills in Data science and Machine learning technique to stay sharp. (More readings and keeping myself abreast of new techniques from fellow practitioners!)
 

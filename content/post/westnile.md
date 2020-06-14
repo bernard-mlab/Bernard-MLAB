@@ -13,7 +13,7 @@ A simple approach with focus on thought process when working on a data set. For 
 
 For this project, I took the Kaggle competition data set to perform my analysis. As I want to validate my prediction, I took out a hold out set from the train data set, instead of using the test data set provided.
 
-## Background
+### Background
 
 In 2002, the first human cases of West Nile virus were reported in Chicago. By 2004 the City of Chicago and the Chicago Department of Public Health (CDPH) had established a comprehensive surveillance and control program that is still in effect today.
 
@@ -21,16 +21,16 @@ Every week from late spring through the fall, mosquitos in traps across the city
 
 Given weather, location, testing, and spraying data, the idea is to predict when and where different species of mosquitos will test positive for West Nile virus. A more accurate method of predicting outbreaks of West Nile virus in mosquitos will help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus. 
 
-## Problem Statement
+### Problem Statement
 
 With the given data, predict if a species of mosquito carries the West Nile virus.
 
-## Approach
+### Approach
 
 In this case study, we are looking to predict if a mosquito carries the West Nile virus. <br>
 A **supervised classification model** will be use to do the prediction.
 
-## Success Metrics
+### Success Metrics
 
 I would use recall as my success metrics instead of precision, the reason being that you want to predict which mosquito indeed has the virus so that focus can be placed on those estate with high rate of mosquito carrying the virus.
 
@@ -73,7 +73,7 @@ import pydot
 %matplotlib inline
 ```
 
-## Understanding the Dataset
+### Understanding the Dataset
 
 It's attempting to jump right into cleaning the data set and get the heavy lifting out of the way, but I am going to hold my horses a bit, and have an overview of the data set that I am working on. 
 I could have done everything within Python itself, but since I want to keep my SQL sharp... I am going to do another step by loading the CSV into SQLite & perform my ETL there.
@@ -214,7 +214,7 @@ memory usage: 985.0+ KB
 None
 ```
 
-## Data Preparation (Cleaning & EDA)
+### Data Preparation (Cleaning & EDA)
 
 Well, like that they say, data preparation takes up 80% of the data scientist work. <br>
 Bam! It's hard work. _#nojoke_
@@ -482,7 +482,7 @@ plt.show()
 {{<figure src="/images/westnile/output_44_0.png">}}
 
 
-## Modeling
+### Modeling
 
 
 ```python
@@ -545,7 +545,7 @@ Xs = ss.transform(X_resampled)
 
 
 
-### Will be using classification models Logistic Regression (Baseline), Random Forest
+#### Will be using classification models Logistic Regression (Baseline), Random Forest
 
 
 ```python
@@ -620,13 +620,13 @@ I have generated a snapshot of the random forest trees, but seems like this fore
 {{<figure src="/images/westnile/tree.png">}}
 
 
-### Comments
+#### Comments
 
 ---
 
 It is interesting that Random Forest prediction if a mosquito carries the West Nile virus assigns a higher weight on the location and month. In the cross validation result, the Random Forest Classifier has a higher recall score compared to the Logistic Regression baseline model. (Recall: 95% vs 78%) However, I am a little concern about the potential of over-fitting in the model when I throw in the hold out test set.
 
-## Evaluating the Model
+### Evaluating the Model
 
 
 ```python
@@ -742,7 +742,7 @@ ROC(fpr, tpr, rdc_roc_auc, label='Random Forest')
 {{<figure src="/images/westnile/output_66_0.png">}}
 
 
-### Observation
+#### Observation
 
 ---
 
@@ -750,7 +750,7 @@ When the test set is thrown in for the prediction, Logistic Regression was able 
 
 I will need to do more adjustment and perimeter tuning for the model to detect the West Nile virus.
 
-## Grid-Search
+### Grid-Search
 
  
 
@@ -859,7 +859,7 @@ ROC(fpr, tpr, rdcgs_roc_auc, label='Random Forest with GridSearch')
 {{<figure src="/images/westnile/output_75_0.png">}}
 
 
-### Comments
+#### Comments
 
 ---
 

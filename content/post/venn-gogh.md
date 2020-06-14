@@ -17,11 +17,9 @@ Using the available Python packages, I wrote up a script which allow user to cre
 
 Feel free to give [Venn-Gogh](https://github.com/bernard-mlab/Venn-Gogh) a try if you are looking for a customizable Venn diagram. Any enhancement feedback is also welcomed.
 
-### Future Works
 
-If the time and resources allow, I will host this Venn diagram generator on a web server, allowing non technical users to customize & generate Venn diagram.
 
-### Venn Diagram (2 Group)
+#### Venn Diagram (2 Group)
 
 ```python
 group1 = 0.65
@@ -48,7 +46,7 @@ plt.title(chart_title, fontsize='xx-large', color='blue') #set title
 
 {{<figure src="/images/venn-gogh/grp2_overlaps.png">}}
 
-### Venn Diagram (3 Group)
+#### Venn Diagram (3 Group)
 
 ```python
 group1 = 0.5075
@@ -79,6 +77,10 @@ plt.title(chart_title, fontsize='xx-large', color='blue') #set title
 
 {{<figure src="/images/venn-gogh/grp3_overlaps.png">}}
 
-### Link:
+#### Future Works
+
+If the time and resources allow, I will host this Venn diagram generator on a web server, allowing non technical users to customize & generate Venn diagram.
+
+#### Link
 
 https://github.com/bernard-mlab/Venn-Gogh

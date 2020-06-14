@@ -13,6 +13,9 @@ tags = [
 images = [
     "placeholder-text.jpg",
 ]
+
+draft = false
+
 +++
 
 Lorem est tota propiore conpellat pectoribus de
