@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Bernard-MLab, a collection of posts about analytics & digital marketing"
+description = "Bernard-ML<a/b>, a collection of posts about analytics & digital marketing"
 date = "2020-06-06"
 aliases = ["about-us","about-bernard","contact"]
 author = "Bernard Yeo"
