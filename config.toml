@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.bernard-mlab.com"
 title = "Bernard-ML<a/b>"
 copyright = "Copyright © 2008–2020, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 2
