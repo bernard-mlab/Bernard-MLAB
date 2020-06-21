@@ -25,7 +25,7 @@ I am currently based in Singapore, and was a teaching assistant with General Ass
 
 ## Freelance work
 
-I'm available for freelance digital marketing and campaign analysis. To see my experience, please view my [**Linkedin profile**](https://www.linkedin.com/in/bernardyk-yeo/). I can be contacted about freelance opportunities at **bernardyk.yeo@gmail.com**.
+I'm available for freelance digital marketing and campaign analysis. To see my experience, please view my [**Linkedin profile**](https://www.linkedin.com/in/bernardyk-yeo/). I can be contacted about freelance opportunities at **bernard@bernard-mlab.com**.
 
 
 
