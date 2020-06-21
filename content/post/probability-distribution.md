@@ -18,7 +18,7 @@ As an analyst/ marketer, often you will be looking at a lot of data generated du
 
 #### Discrete vs Continuous Variables 
 
-A simple way to understand if your data is discrete or continuous is to answer the following question: **"Are the number of your outcomes finite?"**
+For the different distributions which I will cover in these articles, they are classified as either a **Discrete Probability Distribution** or **Continuous Probability Distribution**. A simple way to understand if your data is discrete or continuous is to answer the following question: **"Are the number of your outcomes finite?"**
 
 If the answer to the above is yes, then you have a discrete dataset. Otherwise, you likely have a continuous dataset.
 
@@ -50,7 +50,7 @@ Now, the idea behind the Bernoulli distribution is that the experiment is **repe
 
 {{<figure src="/images/probability-distributions/binomial.png">}}
 
-The answer to that question is the Binomial distribution. This distribution describes the behavior the outputs of *n* random trials, with the probability of success for all trials being the same.
+The answer to that question is the Binomial distribution. This distribution describes the behavior the outputs of *n* number of random trials, with the probability of success for all trials being the same.
 
 Expanding on the earlier Bernoulli distribution, this time our marketing team will run 10,000 trials, where 10 random people will be presented with the same newsletter subscription page, having the assumption that there's a 50% chance of people subscribing.
 
@@ -60,7 +60,7 @@ After gathering the response from those trials, we observed the above Binomial d
 
 {{<figure src="/images/probability-distributions/poisson.png">}}
 
-Poisson Distributions are commonly used to show the number of times an event might occur in a given time period. 
+Poisson Distributions are commonly used to show the number of times an event might occur in a fixed time interval or space. 
 
 One example of Poisson distribution will be the number of visitors to a website. Say for example if we are to monitor over 10,000 hours, the number of visitors per hour to a personal website, we would get the above Poisson distribution which tells us that we are very likely to get 2 visitors per hour.
 
