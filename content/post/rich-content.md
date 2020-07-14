@@ -14,7 +14,7 @@ images = [
     "rich-content.jpg",
 ]
 
-draft = true
+draft = false
 
 +++
 
