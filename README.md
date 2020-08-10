@@ -13,10 +13,10 @@
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/bernard-mlab/bernard-mlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia&line_height=27&card_width=280" />
 </a>
 <a href="ttps://github.com/bernard-mlab/bernard-mlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&count_private=true&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&line_height=27" />
 </a>
 
 
