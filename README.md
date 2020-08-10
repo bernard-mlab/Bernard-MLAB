@@ -6,9 +6,7 @@
 
 ##### GitHub Stats
 
-```
-[![Bernard-MLab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernard-mlab)](https://github.com/anuraghazra/github-readme-stats)
-```
+![Bernard-MLab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernard-mlab)
 
 <!--
 **bernard-mlab/bernard-mlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
