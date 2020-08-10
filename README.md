@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello World 👋
+My name is Bernard and welcome to my humble little space. I'm from Singapore, currently working at Essence, a digital advertising agency.   
+---
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/OS-Win10-informational?style=flat&logo=windows&logoColor=white&color=00C7B7)
@@ -9,7 +10,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
-
+![](https://img.shields.io/badge/IoT-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=00C7B7)
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/bernard-mlab/bernard-mlab">
@@ -19,12 +20,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&line_height=27" />
 </a>
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+---
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
 
 <!--
 **bernard-mlab/bernard-mlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
