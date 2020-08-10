@@ -5,8 +5,13 @@
 
 
 ##### GitHub Stats
+<a href="https://github.com/bernard-mlab/bernard-mlab">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&layout=compact&theme=algolia" />
+</a>
+<a href="ttps://github.com/bernard-mlab/bernard-mlab">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&count_private=true&show_icons=true&theme=algolia" />
+</a>
 
-![Bernard-MLab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernard-mlab)
 
 <!--
 **bernard-mlab/bernard-mlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
