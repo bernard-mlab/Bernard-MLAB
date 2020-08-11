@@ -7,7 +7,8 @@
 <a href="https://www.buymeacoffee.com/bernard"><img height="32" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/buymeacoffee.png?raw=true"></a>
 </p>
 
-<h2 align="center">👋🏼 Hello World! My name is Bernard Yeo. <img height="100" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/cat.gif?raw=true"></h2>
+<p align='center' ><img height="100" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/cat.gif?raw=true"></p>
+<h2 align="center">Hello World! 👋🏼 My name is Bernard Yeo.</h2>
 
 <h3 align="left"> Technologies & Tools </h3>
 
