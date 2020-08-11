@@ -1,7 +1,16 @@
-## Hello World 👋
-My name is Bernard and welcome to my humble little space. I'm from Singapore, currently working at Essence, a digital advertising agency.   
----
-### Technologies & Tools
+# [![bernard yeo header](./assets/bernardyeo.png)](https://bernard-mlab.com)
+<p align='center'>
+<a href="https://bernard-mlab.com/"><img height="32" src="./assets/android-chrome-192x192.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/bernard-mlab?tab=repositories"><img height="32" src="./assets/github.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bernardyk-yeo/"><img height="32" src="./assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/byeothoughts"><img height="32" src="./assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bernard"><img height="32" src="./assets/buymeacoffee.png?raw=true"></a>
+</p>
+
+<h2 align="center">Hello World! My name is Bernard Yeo. 👋🏼 </h2>
+
+<h3 align="left"> Technologies & Tools </h3>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/OS-Win10-informational?style=flat&logo=windows&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00C7B7)
@@ -12,7 +21,22 @@ My name is Bernard and welcome to my humble little space. I'm from Singapore, cu
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/IoT-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=00C7B7)
 
-### &#x1f4c8; GitHub Stats
+I'm a data analyst from Singapore, currently working at Essence, a digital advertising agency. When I'm not cracking my brain analyzing stuffs, I would tinker with some cool geeky stuffs on my raspberry pi or working on some webapps.
+
+- 🌱 I’m currently learning: Cloud engineering, (_Up next..._) Golang, Ethical Hacking
+- 👯 I’m looking to collaborate on anything awesome! (_Well, almost anything will fascinates me, so don't be shy!_)
+- 💬 Ask me about: marketing analytics, cycling, hiking, and **food**!
+- ⚡ Quirky fact: I've once camped in Sahara Desert. 
+
+<h3 align="left"> 📫 How to reach me </h3>
+
+Come on by to my personal blog [bernard-mlab.com](https://bernard-mlab.com/)! I'm a believer of life long learning, and this site shares with my readers, my analytics & digital marketing learning journey in the digital marketing world. You can also check out the links above where I shares some of my thoughts occasionally.
+
+If you saw value in something that I have created, please feel free to send over some [love](https://www.buymeacoffee.com/bernard), give me a shoutout at [@byeothoughts](https://twitter.com/byeothoughts).  
+
+
+<h3 align="left"> &#x1f4c8; GitHub Stats </h3>
+
 <a href="https://github.com/bernard-mlab/bernard-mlab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia&line_height=27&card_width=280" />
 </a>
@@ -20,15 +44,10 @@ My name is Bernard and welcome to my humble little space. I'm from Singapore, cu
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&line_height=27" />
 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
----
+
+
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
