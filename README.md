@@ -38,10 +38,10 @@ If you saw value in something that I have created, please feel free to send over
 <h3 align="left"> &#x1f4c8; GitHub Stats </h3>
 
 <a href="https://github.com/bernard-mlab/bernard-mlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia&line_height=27&card_width=280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia&line_height=27&card_width=280&bg_color=393630&title_color=f7efdc" />
 </a>
 <a href="ttps://github.com/bernard-mlab/bernard-mlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&line_height=27&bg_color=393630&title_color=f7efdc" />
 </a>
 
 
