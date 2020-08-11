@@ -1,10 +1,10 @@
-# [![bernard yeo header](assets/bernardyeo.png)](https://bernard-mlab.com)
+# [![bernard yeo header](https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/bernardyeo.png)](https://bernard-mlab.com)
 <p align='center'>
-<a href="https://bernard-mlab.com/"><img height="32" src="assets/android-chrome-192x192.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/bernard-mlab?tab=repositories"><img height="32" src="assets/github.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bernardyk-yeo/"><img height="32" src="assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/byeothoughts"><img height="32" src="assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bernard"><img height="32" src="assets/buymeacoffee.png?raw=true"></a>
+<a href="https://bernard-mlab.com/"><img height="32" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/android-chrome-192x192.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/bernard-mlab?tab=repositories"><img height="32" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/github.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bernardyk-yeo/"><img height="32" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/byeothoughts"><img height="32" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bernard"><img height="32" src="https://github.com/bernard-mlab/bernard-mlab/blob/master/assets/buymeacoffee.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello World! My name is Bernard Yeo. 👋🏼 </h2>
