@@ -1,10 +1,10 @@
-# [![bernard yeo header](./assets/bernardyeo.png)](https://bernard-mlab.com)
+# [![bernard yeo header](assets/bernardyeo.png)](https://bernard-mlab.com)
 <p align='center'>
-<a href="https://bernard-mlab.com/"><img height="32" src="./assets/android-chrome-192x192.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/bernard-mlab?tab=repositories"><img height="32" src="./assets/github.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bernardyk-yeo/"><img height="32" src="./assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/byeothoughts"><img height="32" src="./assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bernard"><img height="32" src="./assets/buymeacoffee.png?raw=true"></a>
+<a href="https://bernard-mlab.com/"><img height="32" src="assets/android-chrome-192x192.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://github.com/bernard-mlab?tab=repositories"><img height="32" src="assets/github.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bernardyk-yeo/"><img height="32" src="assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/byeothoughts"><img height="32" src="assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bernard"><img height="32" src="assets/buymeacoffee.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hello World! My name is Bernard Yeo. 👋🏼 </h2>
@@ -38,7 +38,7 @@ If you saw value in something that I have created, please feel free to send over
 <h3 align="left"> &#x1f4c8; GitHub Stats </h3>
 
 <a href="https://github.com/bernard-mlab/bernard-mlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia&line_height=27&card_width=280&bg_color=393630&title_color=f7efdc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-mlab&theme=algolia&layout=compact&line_height=27&card_width=445&bg_color=393630&title_color=f7efdc" />
 </a>
 <a href="ttps://github.com/bernard-mlab/bernard-mlab">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernard-mlab&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&line_height=27&bg_color=393630&title_color=f7efdc" />
