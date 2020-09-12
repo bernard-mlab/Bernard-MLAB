@@ -83,8 +83,10 @@ If the time and resources allow, I will host this Venn diagram generator on a we
 
 #### Updates
 
-- 2020-07-15: [Venn-Gogh](https://boiling-hollows-46887.herokuapp.com/) (2 group) is now officially an webapp, hosted on Heroku.  
+- 2020-07-15: [Venn-Gogh](https://boiling-hollows-46887.herokuapp.com/) (2 group) is now officially an webapp, hosted on Heroku.
+
 
 #### Link
 
 https://github.com/bernard-mlab/Venn-Gogh
+https://boiling-hollows-46887.herokuapp.com/ 
